@@ -1,0 +1,58 @@
+[
+
+    {   
+       "id": 2,
+       "title": "PlayStation 4 Slim 1TB",
+        "desc": "PlayStation 4 Slim 1TB ",
+        "price": 488.00,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/814Cwlg1JaL._SL1500_.jpg",
+        "ratings": 5
+    },
+    {
+       "id": 3,
+       "title": "Pro Angular 9", 
+       "desc": "Pro Angular 9",
+        "price": 28.88,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/418hZfmNkXL._SX348_BO1,204,203,200_.jpg",
+        "ratings": 3
+    },
+    {   
+       "id": 4, 
+        "title": "JavaScript: ", 
+        "desc": "JavaScript: Boook",
+        "price": 53.00,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51wijnc-Y8L._SX379_BO1,204,203,200_.jpg",
+        "ratings": 5
+    },
+    {    "id": 5, 
+        "title":"Lavazza Super Crema Whole Bean Coffee",
+        "desc": "Lavazza Super Crema Whole Bean Coffee",
+        "price": 54.36,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61fpw9inWTL._SL1296_.jpg",
+        "ratings": 2
+    },
+   {   
+       "id": 2,
+       "title": "PlayStation 4 Slim 1TB",
+        "desc": "PlayStation 4 Slim 1TB",
+        "price": 488.00,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/814Cwlg1JaL._SL1500_.jpg",
+        "ratings": 5
+    },
+    {
+       "id": 3,
+       "title": "Pro Angular 9", 
+       "desc": "Pro Angular 9",
+        "price": 28.88,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/418hZfmNkXL._SX348_BO1,204,203,200_.jpg",
+        "ratings": 3
+    },
+    {   
+       "id": 4, 
+        "title": "JavaScript:", 
+        "desc": "JavaScript: Book",
+        "price": 53.00,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51wijnc-Y8L._SX379_BO1,204,203,200_.jpg",
+        "ratings": 5
+    }
+]

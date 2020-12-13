@@ -1,0 +1,30 @@
+<div class="checkout_products">
+    <p class="price"><strong>Price</strong></p>
+    <div class="checkout_product" *ngFor="let p of checkout_products">
+       <img src="{{p.image}}" alt="" class="checkout_product_img">
+       <div class="checkout_product_info">
+           
+           <p class="checkout_product_title">
+
+            {{p.title}}
+
+           </p>
+           <p>{{p.desc}}</p>
+
+          <div class="checkout_options">
+              <a (click)="removeItem(p)"> Delete</a>
+
+          </div>
+          
+       </div>
+       <div class="checkout_products_price">
+           <p> <strong>${{p.price}}</strong> </p>
+       </div>
+
+    </div>
+    <div class="checkout_products_subtotal">
+        <p>Subtotal ({{shopping_cart_service.getCartLength()}} items):
+             <strong>${{shopping_cart_service.getTotal()}}</strong> </p>
+
+    </div>
+</div>
